@@ -64,7 +64,7 @@ sections:
         altText: Pokémon
       - type: ImageBlock
         url: /images/Disney_Lorcana.jpg
-        altText: altText of the image
+        altText: Disney Lor
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
