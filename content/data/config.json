@@ -1,0 +1,94 @@
+{
+    "type": "Config",
+    "favicon": "/images/elf crystal ball.png",
+    "header": {
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "primaryColors": "colors-e",
+        "secondaryColors": "colors-e",
+        "title": ".",
+        "isTitleVisible": false,
+        "primaryLinks": [],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Contact us",
+                "url": "mailto:contact@deadelfcollectibles.com",
+                "altText": "Contact us",
+                "style": "secondary",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        },
+        "logo": {
+            "url": "/images/dec-color_text_1625080144__34991.original.png",
+            "altText": "Dead Elf Collectibles",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "type": "ImageBlock"
+        }
+    },
+    "footer": {
+        "variant": "variant-b",
+        "colors": "colors-e",
+        "title": "Dead Elf Collectibles",
+        "contacts": {
+            "title": "Contact details",
+            "phoneNumber": "980-207-3003",
+            "phoneAltText": "Our phone",
+            "email": "contact@deadelfcollectibles.com",
+            "emailAltText": "Our email",
+            "address": "5309 E Independence Blvd. Suite F Charlotte, NC, 28212 United States of America",
+            "addressAltText": "Our address"
+        },
+        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "primaryLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://twitter.com/TheReal_DeadElf",
+                "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/deadelfcollectibles/",
+                "icon": "instagram"
+            },
+            {
+                "type": "Social",
+                "altText": "Facebook",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/TheRealDeadElf",
+                "icon": "facebook"
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Privacy Policy",
+                "url": "/"
+            },
+            {
+                "type": "Link",
+                "label": "Terms & Conditions",
+                "url": "/"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        }
+    },
+    "defaultMetaTags": []
+}
