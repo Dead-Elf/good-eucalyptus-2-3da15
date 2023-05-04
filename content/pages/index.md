@@ -147,7 +147,7 @@ sections:
     subtitle: Store Front and Play Space
     images:
       - type: ImageBlock
-        url: /images/3.jpg
+        url: /images/Pokemon_Plushies_Display.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
