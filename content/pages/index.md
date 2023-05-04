@@ -64,7 +64,7 @@ sections:
         altText: Pokémon
       - type: ImageBlock
         url: /images/Disney_Lorcana.jpg
-        altText: 'Disney Lorcana '
+        altText: Disney Lorcana Trading Card Game
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
