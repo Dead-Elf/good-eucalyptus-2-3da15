@@ -65,7 +65,7 @@ sections:
       - type: ImageBlock
         url: /images/Disney_Lorcana.jpg
         altText: Disney Lorcana Trading Card Game
-        caption: Caption of the image
+        caption: Disney Lor
         elementId: ''
       - type: ImageBlock
         url: /images/wixoss.png
