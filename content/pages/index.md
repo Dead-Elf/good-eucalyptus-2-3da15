@@ -112,7 +112,7 @@ sections:
       - type: ImageBlock
         url: /images/Deadelf_plushies.jpg
         altText: Image two
-        caption: Accessories
+        caption: Plushies
       - type: ImageBlock
         url: /images/20220221_180705.jpg
         altText: Image three
