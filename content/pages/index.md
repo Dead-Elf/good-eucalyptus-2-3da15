@@ -120,7 +120,7 @@ sections:
       - type: ImageBlock
         url: /images/20220319_132124.jpg
         altText: Image four
-        caption: trading Cards
+        caption: rading Cards
     spacing: 16
     columns: 3
     aspectRatio: '16:9'
