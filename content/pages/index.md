@@ -108,7 +108,7 @@ sections:
       - type: ImageBlock
         url: /images/Deadelf_figures.jpg
         altText: Image one
-        caption: Anime figures
+        caption: Figures
       - type: ImageBlock
         url: /images/20220319_132447.jpg
         altText: Image two
