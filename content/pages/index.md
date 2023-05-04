@@ -118,7 +118,7 @@ sections:
         altText: Image three
         caption: Accessories
       - type: ImageBlock
-        url: /images/20220319_132124.jpg
+        url: /images/Deadelf_trading_cards.jpg
         altText: Image four
         caption: Trading Cards
     spacing: 16
