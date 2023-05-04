@@ -65,10 +65,6 @@ sections:
       - type: ImageBlock
         url: /images/wixoss.png
         altText: Wixoss
-      - url: /images/fleshblood.png
-        altText: flesh and blood TCG
-        elementId: ''
-        type: ImageBlock
       - url: /images/pngwing.com.png
         altText: Magic the Gathering
         elementId: ''
