@@ -73,10 +73,6 @@ sections:
         elementId: ''
         type: ImageBlock
         altText: Warhammer
-      - url: /images/yugioh.png
-        altText: Yu-gi-oh! TCG
-        elementId: ''
-        type: ImageBlock
     spacing: 16
     columns: 3
     aspectRatio: '16:9'
