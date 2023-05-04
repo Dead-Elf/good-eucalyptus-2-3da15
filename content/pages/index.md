@@ -63,9 +63,6 @@ sections:
         url: /images/pokemon.png
         altText: Pokémon
       - type: ImageBlock
-        url: /images/dragonball-b782a698.png
-        altText: Dragonball Z TCG
-      - type: ImageBlock
         url: /images/wixoss.png
         altText: Wixoss
       - url: /images/vg_logo.png
