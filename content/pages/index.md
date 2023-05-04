@@ -155,7 +155,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/1.jpg
+        url: /images/Acessories_carrybag_center_Display.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
