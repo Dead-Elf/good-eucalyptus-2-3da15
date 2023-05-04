@@ -110,7 +110,7 @@ sections:
         altText: Image one
         caption: Figures
       - type: ImageBlock
-        url: /images/20220319_132447.jpg
+        url: /images/Deadelf_plushies.jpg
         altText: Image two
         caption: Accessories
       - type: ImageBlock
