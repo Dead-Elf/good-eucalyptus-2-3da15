@@ -116,7 +116,7 @@ sections:
       - type: ImageBlock
         url: /images/Deadelf_accessories.jpg
         altText: Image three
-        caption: Acessories
+        caption: accessories
       - type: ImageBlock
         url: /images/20220319_132124.jpg
         altText: Image four
