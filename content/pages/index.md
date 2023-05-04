@@ -106,7 +106,7 @@ sections:
     subtitle: Collectibles & Accessories
     images:
       - type: ImageBlock
-        url: /images/20220319_132502.jpg
+        url: /images/Deadelf_figures.jpg
         altText: Image one
         caption: Anime figures
       - type: ImageBlock
