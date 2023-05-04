@@ -69,10 +69,6 @@ sections:
         altText: Magic the Gathering
         elementId: ''
         type: ImageBlock
-      - url: /images/metazoo.png
-        altText: Metazoo TCG
-        elementId: ''
-        type: ImageBlock
       - url: /images/Warhammer.png
         elementId: ''
         type: ImageBlock
