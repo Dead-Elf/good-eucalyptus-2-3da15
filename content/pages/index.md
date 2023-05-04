@@ -65,10 +65,6 @@ sections:
       - type: ImageBlock
         url: /images/wixoss.png
         altText: Wixoss
-      - url: /images/vg_logo.png
-        altText: Vangaurd
-        elementId: ''
-        type: ImageBlock
       - url: /images/fleshblood.png
         altText: flesh and blood TCG
         elementId: ''
